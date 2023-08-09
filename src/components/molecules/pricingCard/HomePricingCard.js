@@ -2,7 +2,6 @@ import React from "react";
 import "./homePricingCard.css";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import { FadeIn } from "../../utils/FadeInAnimation";
-import PaystackModal from "../paystackModal/PaystackModal";
 function HomePricingCard({
   plan,
   amount,
@@ -56,8 +55,6 @@ function HomePricingCard({
               {benefit4} &nbsp; {icon3}
             </li>
           </ul>
-
-          <PaystackModal paystackAmount={subscriptionCost} />
         </div>
       </FadeIn>
     </div>

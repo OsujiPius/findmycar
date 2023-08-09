@@ -14,8 +14,6 @@ FindMyCar is a prototype vehicle theft Recovery System website, our mission is t
 
 ### Material UI for Styling and Icons
 
-### React-PayStack for payment solution in pricing section
-
 ### react-spring and react-waypoint for scroll animations
 
 ### react-Router and react-router-hashlink to handle Routing
