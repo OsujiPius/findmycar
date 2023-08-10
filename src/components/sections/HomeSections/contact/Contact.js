@@ -63,9 +63,9 @@ function Contact() {
                     </i>
                     <h3>Address</h3>
                     <p>
-                      No 28, Bishops Court, beside Imo State University
+                      Federal University of Technology,
                       <br />
-                      Owerri-North, Owerri, Imo State
+                      Owerri, Imo State
                     </p>
                   </div>
                 </div>
@@ -82,9 +82,9 @@ function Contact() {
                     </i>
                     <h3>Call Us</h3>
                     <p>
-                      Owerri
+                      FUTO
                       <br />
-                      +234 000 000 000
+                      +234 90300692235
                     </p>
                   </div>
                 </div>

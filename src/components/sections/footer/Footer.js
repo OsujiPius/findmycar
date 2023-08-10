@@ -184,7 +184,7 @@ function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Okereke Chinweotito
+                  Ozurumba Senator Ugonna & Princewill Chidera Ogbonna
                 </a>
                 . All Rights Reserved
               </p>
